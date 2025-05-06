@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Vue.js Developer
-- 🌱 I’m currently learning Web 3
+- 🌱 I’m currently learning Ai
 - 👯 I'm collaborating to open source.
  
  ​![​Top Langs​](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidpathiyil&theme=github_dark&hide_border=true&layout=compact)
